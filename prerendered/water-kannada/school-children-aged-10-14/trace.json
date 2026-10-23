@@ -1,0 +1,66 @@
+[
+  {
+    "t": 0.0,
+    "step": "setup",
+    "msg": "audience='School children aged 10-14' lang=kn format=horizontal(1280, 720) llm=on offline=False ai_clips_max=0"
+  },
+  {
+    "t": 5.8,
+    "step": "critic",
+    "msg": "round 1: fit=8/10, facts_preserved=True",
+    "issues": [
+      "The opening metaphor about turning a tiny drip into a mountain may be abstract for 10‑14‑year‑olds",
+      "Some sentences are slightly long for this age group"
+    ]
+  },
+  {
+    "t": 7.9,
+    "step": "translate",
+    "msg": "translated 7 scenes into Kannada"
+  },
+  {
+    "t": 7.9,
+    "step": "adapt",
+    "msg": "7 scenes, pace=125wpm, style='bright cartoon illustration'"
+  },
+  {
+    "t": 49.4,
+    "step": "scene",
+    "msg": "1/7 audio=6.5s (edge-tts) image=pollinations motion=ken-burns"
+  },
+  {
+    "t": 49.4,
+    "step": "scene",
+    "msg": "2/7 audio=8.0s (edge-tts) image=pollinations motion=ken-burns"
+  },
+  {
+    "t": 49.4,
+    "step": "scene",
+    "msg": "3/7 audio=10.0s (edge-tts) image=pollinations motion=ken-burns"
+  },
+  {
+    "t": 49.4,
+    "step": "scene",
+    "msg": "4/7 audio=10.0s (edge-tts) image=pollinations motion=ken-burns"
+  },
+  {
+    "t": 49.4,
+    "step": "scene",
+    "msg": "5/7 audio=8.9s (edge-tts) image=pollinations motion=ken-burns"
+  },
+  {
+    "t": 49.4,
+    "step": "scene",
+    "msg": "6/7 audio=7.0s (edge-tts) image=pollinations motion=ken-burns"
+  },
+  {
+    "t": 49.4,
+    "step": "scene",
+    "msg": "7/7 audio=8.6s (edge-tts) image=pollinations motion=ken-burns"
+  },
+  {
+    "t": 89.2,
+    "step": "assemble",
+    "msg": "video=ok total=59.0s"
+  }
+]

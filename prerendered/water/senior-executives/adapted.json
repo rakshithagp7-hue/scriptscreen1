@@ -1,0 +1,103 @@
+{
+  "profile": {
+    "tone": "refined, concise, direct, and pragmatic",
+    "vocab_level": "executive professional",
+    "grade_target": 10,
+    "pace_wpm": 160,
+    "voice_gender": "male",
+    "music_mood": "Subtle, sophisticated ambient piano",
+    "visual_style": "Minimalist architectural photography with soft natural morning light, slate surfaces, muted brass accents, and shallow depth of field",
+    "palette": [
+      "#2B3A42",
+      "#C5A880"
+    ]
+  },
+  "scenes": [
+    {
+      "title": "A Finite Resource",
+      "narration": "Clean water is finite, and meaningful stewardship starts with everyday routines at home.",
+      "image_prompt": "A minimalist glass carafe and a single lowball tumbler of clear still water resting on a polished dark slate table in soft morning light"
+    },
+    {
+      "title": "Simple Adjustments",
+      "narration": "Shut off the faucet while brushing your teeth, and repair leaking fixtures promptly. Even a minor drip wastes significant volume over time.",
+      "image_prompt": "A modern matte-black bathroom faucet over a smooth stone basin, capturing a single suspended droplet of water poised to fall"
+    },
+    {
+      "title": "Smarter Showers",
+      "narration": "Choose brief showers over full baths to immediately reduce your daily consumption.",
+      "image_prompt": "A luxury walk-in rain shower enclosure with frosted glass panels and gentle steam clinging to clean architectural lines"
+    },
+    {
+      "title": "Optimizing Appliances",
+      "narration": "Wait for a full load before running the washing machine to make every cycle count.",
+      "image_prompt": "A sleek, integrated front-load washing machine set flush into dark timber cabinetry in an uncluttered utility room"
+    },
+    {
+      "title": "Repurposing Rainwater",
+      "narration": "Outside, collect rainwater in collection barrels and use it to maintain your garden and household plants.",
+      "image_prompt": "An elegant charcoal ceramic rainwater collection vessel resting on a bluestone patio beside lush green foliage"
+    },
+    {
+      "title": "Compounding Impact",
+      "narration": "Every drop matters. Small, disciplined daily habits compound into lasting change.",
+      "image_prompt": "A tranquil interior courtyard with floor-to-ceiling glass walls overlooking a minimalist stone garden under calm overcast skies"
+    }
+  ],
+  "timeline": [
+    {
+      "scene": 1,
+      "start": 0.0,
+      "end": 7.09,
+      "narration": "Clean water is finite, and meaningful stewardship starts with everyday routines at home.",
+      "image": "/workspaces/scriptscreen1/.cache/img_faa8c020ecce8093b936.png",
+      "audio": "prerendered/water/senior-executives/frames/scene0.wav",
+      "motion": "ai-clip"
+    },
+    {
+      "scene": 2,
+      "start": 7.09,
+      "end": 17.91,
+      "narration": "Shut off the faucet while brushing your teeth, and repair leaking fixtures promptly. Even a minor drip wastes significant volume over time.",
+      "image": "/workspaces/scriptscreen1/.cache/img_60459a167117ecc4b18c.png",
+      "audio": "prerendered/water/senior-executives/frames/scene1.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 3,
+      "start": 17.91,
+      "end": 24.14,
+      "narration": "Choose brief showers over full baths to immediately reduce your daily consumption.",
+      "image": "/workspaces/scriptscreen1/.cache/img_0bd4df0a725d8b953c15.png",
+      "audio": "prerendered/water/senior-executives/frames/scene2.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 4,
+      "start": 24.14,
+      "end": 30.46,
+      "narration": "Wait for a full load before running the washing machine to make every cycle count.",
+      "image": "/workspaces/scriptscreen1/.cache/img_6c45f007ee4ad5766506.png",
+      "audio": "prerendered/water/senior-executives/frames/scene3.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 5,
+      "start": 30.46,
+      "end": 38.57,
+      "narration": "Outside, collect rainwater in collection barrels and use it to maintain your garden and household plants.",
+      "image": "/workspaces/scriptscreen1/.cache/img_b88198a5b87886cab934.png",
+      "audio": "prerendered/water/senior-executives/frames/scene4.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 6,
+      "start": 38.57,
+      "end": 45.68,
+      "narration": "Every drop matters. Small, disciplined daily habits compound into lasting change.",
+      "image": "/workspaces/scriptscreen1/.cache/img_32c76412e9f8e797fad7.png",
+      "audio": "prerendered/water/senior-executives/frames/scene5.wav",
+      "motion": "ken-burns"
+    }
+  ]
+}

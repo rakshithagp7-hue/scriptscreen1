@@ -1,0 +1,19 @@
+{
+  "reading_grade": "n/a",
+  "words_per_sentence": 13.2,
+  "total_words": 106,
+  "speaking_pace_wpm": 134,
+  "scenes": 7,
+  "avg_scene_seconds": 7.1,
+  "duration_seconds": 50.0,
+  "tone": "Professional and strategic",
+  "visual_style": "minimalist infographic",
+  "palette": "#1D3557 / #F4A261",
+  "voice": "hi-IN-MadhurNeural",
+  "tts_rate": "+7%",
+  "music_mood_suggested": "motivational and subtle",
+  "critic_fit_score": null,
+  "adapter": "llm",
+  "format": "horizontal",
+  "ai_video_clips": 0
+}

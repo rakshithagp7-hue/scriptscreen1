@@ -1,0 +1,19 @@
+{
+  "reading_grade": "n/a",
+  "words_per_sentence": 11.1,
+  "total_words": 78,
+  "speaking_pace_wpm": 83,
+  "scenes": 7,
+  "avg_scene_seconds": 8.4,
+  "duration_seconds": 59.0,
+  "tone": "enthusiastic and friendly",
+  "visual_style": "bright cartoon illustration",
+  "palette": "#00ADEF / #FFCC00",
+  "voice": "kn-IN-SapnaNeural",
+  "tts_rate": "-17%",
+  "music_mood_suggested": "upbeat and playful",
+  "critic_fit_score": 8,
+  "adapter": "llm",
+  "format": "horizontal",
+  "ai_video_clips": 0
+}

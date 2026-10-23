@@ -1,0 +1,106 @@
+[
+  {
+    "t": 0.0,
+    "step": "setup",
+    "msg": "audience='Senior executives' lang=hi format=horizontal(1280, 720) llm=on offline=False ai_clips_max=0"
+  },
+  {
+    "t": 5.4,
+    "step": "critic",
+    "msg": "round 1: fit=7/10, facts_preserved=False",
+    "issues": [
+      "Added claim about cost reduction not in original",
+      "Sentence length could be tighter for executive audience",
+      "Intro adds extra point not in original list"
+    ]
+  },
+  {
+    "t": 5.4,
+    "step": "adapt",
+    "msg": "critic asked for a rewrite"
+  },
+  {
+    "t": 12.1,
+    "step": "retry",
+    "msg": "adapt attempt 1/3 failed: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions"
+  },
+  {
+    "t": 21.1,
+    "step": "critic",
+    "msg": "round 2: fit=7/10, facts_preserved=False",
+    "issues": [
+      "Added specific waste figure not in original",
+      "Added claim about energy and water savings not in original"
+    ]
+  },
+  {
+    "t": 21.1,
+    "step": "adapt",
+    "msg": "critic asked for a rewrite"
+  },
+  {
+    "t": 25.2,
+    "step": "retry",
+    "msg": "critic attempt 1/3 failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions"
+  },
+  {
+    "t": 26.8,
+    "step": "retry",
+    "msg": "critic attempt 2/3 failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions"
+  },
+  {
+    "t": 29.9,
+    "step": "retry",
+    "msg": "critic attempt 3/3 failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions"
+  },
+  {
+    "t": 29.9,
+    "step": "critic",
+    "msg": "critic unavailable (429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat); accepting draft"
+  },
+  {
+    "t": 29.9,
+    "step": "adapt",
+    "msg": "7 scenes, pace=160wpm, style='minimalist infographic'"
+  },
+  {
+    "t": 71.2,
+    "step": "scene",
+    "msg": "1/7 audio=5.6s (edge-tts) image=pollinations motion=ken-burns"
+  },
+  {
+    "t": 71.2,
+    "step": "scene",
+    "msg": "2/7 audio=6.4s (edge-tts) image=pollinations motion=ken-burns"
+  },
+  {
+    "t": 71.2,
+    "step": "scene",
+    "msg": "3/7 audio=8.5s (edge-tts) image=pollinations motion=ken-burns"
+  },
+  {
+    "t": 71.2,
+    "step": "scene",
+    "msg": "4/7 audio=4.5s (edge-tts) image=pollinations motion=ken-burns"
+  },
+  {
+    "t": 71.2,
+    "step": "scene",
+    "msg": "5/7 audio=6.4s (edge-tts) image=pollinations motion=ken-burns"
+  },
+  {
+    "t": 71.2,
+    "step": "scene",
+    "msg": "6/7 audio=7.8s (edge-tts) image=pollinations motion=ken-burns"
+  },
+  {
+    "t": 71.2,
+    "step": "scene",
+    "msg": "7/7 audio=10.9s (edge-tts) image=pollinations motion=ken-burns"
+  },
+  {
+    "t": 101.1,
+    "step": "assemble",
+    "msg": "video=ok total=50.0s"
+  }
+]

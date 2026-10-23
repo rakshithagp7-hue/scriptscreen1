@@ -1,0 +1,19 @@
+{
+  "reading_grade": "n/a",
+  "words_per_sentence": 15.3,
+  "total_words": 92,
+  "speaking_pace_wpm": 109,
+  "scenes": 6,
+  "avg_scene_seconds": 8.8,
+  "duration_seconds": 52.8,
+  "tone": "professional and persuasive",
+  "visual_style": "minimalist corporate illustration",
+  "palette": "#0A3D62 / #F5F5F5",
+  "voice": "kn-IN-GaganNeural",
+  "tts_rate": "+7%",
+  "music_mood_suggested": "inspiring",
+  "critic_fit_score": 9,
+  "adapter": "llm",
+  "format": "horizontal",
+  "ai_video_clips": 0
+}

@@ -1,0 +1,19 @@
+{
+  "reading_grade": 6.3,
+  "words_per_sentence": 11.1,
+  "total_words": 100,
+  "speaking_pace_wpm": 109,
+  "scenes": 7,
+  "avg_scene_seconds": 8.2,
+  "duration_seconds": 57.3,
+  "tone": "Energetic, encouraging, and engaging",
+  "visual_style": "Vibrant 3D claymation style with soft rounded edges, cheerful ambient lighting, and minimalist clean backgrounds",
+  "palette": "#2A9D8F / #E76F51",
+  "voice": "en-IN-NeerjaNeural",
+  "tts_rate": "-17%",
+  "music_mood_suggested": "Upbeat, playful, and inspiring acoustic pop",
+  "critic_fit_score": 9,
+  "adapter": "llm",
+  "format": "horizontal",
+  "ai_video_clips": 1
+}

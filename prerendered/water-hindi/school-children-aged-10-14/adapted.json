@@ -1,0 +1,103 @@
+{
+  "profile": {
+    "tone": "friendly",
+    "vocab_level": "simple",
+    "grade_target": 8,
+    "pace_wpm": 125,
+    "voice_gender": "female",
+    "music_mood": "upbeat and light",
+    "visual_style": "watercolor illustration",
+    "palette": [
+      "#1E90FF",
+      "#2E8B57"
+    ]
+  },
+  "scenes": [
+    {
+      "title": "बूँद कीमती",
+      "narration": "क्या आप जानते हैं कि हर बूँद कीमती है?",
+      "image_prompt": "A bright kitchen sink with a faucet, a single large water droplet suspended mid-air, soft pastel background."
+    },
+    {
+      "title": "नल बंद करें",
+      "narration": "जब आप दाँत ब्रश कर रहे हों, तो नल को बंद कर दें। इससे पानी बचता है और बिल भी कम आता है।",
+      "image_prompt": "A child brushing teeth at a bathroom sink, hand turning off the tap, cartoon style."
+    },
+    {
+      "title": "लीक ठीक करें",
+      "narration": "टपके हुए नल या पाइप को तुरंत ठीक करवाएँ, क्योंकि एक छोटा टपकना भी बहुत पानी बर्बाद करता है।",
+      "image_prompt": "A leaking pipe under a sink with a small steady drip, a wrench nearby indicating repair."
+    },
+    {
+      "title": "शॉवर समय",
+      "narration": "नहाते समय समय कम रखें; लंबी नहाने की बजाय छोटी शावर लें। एक मिनट कम शावर से रोज़ कई लीटर बचते हैं।",
+      "image_prompt": "A bathroom shower with a timer icon, water flow reduced, steam faint."
+    },
+    {
+      "title": "धोबी और बारिश",
+      "narration": "वॉशिंग मशीन को सिर्फ तब चलाएँ जब पूरी भराई हो, और बारिश का पानी इकट्ठा करके पौधों को पानी दें।",
+      "image_prompt": "A washing machine full of clothes with a rain barrel beside it collecting rainwater, plants in the foreground."
+    },
+    {
+      "title": "छोटी आदतें",
+      "narration": "छोटी‑छोटी आदतें रोज़ मिलकर बड़े बदलाव लाती हैं, तो आज से शुरू करें!",
+      "image_prompt": "A garden scene showing healthy plants being watered by a watering can, with a sun shining."
+    }
+  ],
+  "timeline": [
+    {
+      "scene": 1,
+      "start": 0.0,
+      "end": 4.93,
+      "narration": "क्या आप जानते हैं कि हर बूँद कीमती है?",
+      "image": "/workspaces/scriptscreen1/.cache/img_395e00281444fbadcb13.png",
+      "audio": "/workspaces/scriptscreen1/output/school-children-aged-10-14/frames/scene0.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 2,
+      "start": 4.93,
+      "end": 15.87,
+      "narration": "जब आप दाँत ब्रश कर रहे हों, तो नल को बंद कर दें। इससे पानी बचता है और बिल भी कम आता है।",
+      "image": "/workspaces/scriptscreen1/.cache/img_5c9650c39fcb59ebed7f.png",
+      "audio": "/workspaces/scriptscreen1/output/school-children-aged-10-14/frames/scene1.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 3,
+      "start": 15.87,
+      "end": 26.32,
+      "narration": "टपके हुए नल या पाइप को तुरंत ठीक करवाएँ, क्योंकि एक छोटा टपकना भी बहुत पानी बर्बाद करता है।",
+      "image": "/workspaces/scriptscreen1/.cache/img_a8ba35ff41c77d69ac95.png",
+      "audio": "/workspaces/scriptscreen1/output/school-children-aged-10-14/frames/scene2.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 4,
+      "start": 26.32,
+      "end": 39.22,
+      "narration": "नहाते समय समय कम रखें; लंबी नहाने की बजाय छोटी शावर लें। एक मिनट कम शावर से रोज़ कई लीटर बचते हैं।",
+      "image": "/workspaces/scriptscreen1/.cache/img_67df69ba055c3788c504.png",
+      "audio": "/workspaces/scriptscreen1/output/school-children-aged-10-14/frames/scene3.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 5,
+      "start": 39.22,
+      "end": 49.68,
+      "narration": "वॉशिंग मशीन को सिर्फ तब चलाएँ जब पूरी भराई हो, और बारिश का पानी इकट्ठा करके पौधों को पानी दें।",
+      "image": "/workspaces/scriptscreen1/.cache/img_e6011d2d8f129cd9cd5b.png",
+      "audio": "/workspaces/scriptscreen1/output/school-children-aged-10-14/frames/scene4.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 6,
+      "start": 49.68,
+      "end": 58.21,
+      "narration": "छोटी‑छोटी आदतें रोज़ मिलकर बड़े बदलाव लाती हैं, तो आज से शुरू करें!",
+      "image": "/workspaces/scriptscreen1/.cache/img_fb87fd0f7ac95833d920.png",
+      "audio": "/workspaces/scriptscreen1/output/school-children-aged-10-14/frames/scene5.wav",
+      "motion": "ken-burns"
+    }
+  ]
+}

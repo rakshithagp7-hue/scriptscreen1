@@ -1,0 +1,97 @@
+[
+  {
+    "t": 0.0,
+    "step": "setup",
+    "msg": "audience='School children aged 10-14' lang=en format=horizontal(1280, 720) llm=on offline=False ai_clips_max=1"
+  },
+  {
+    "t": 0.0,
+    "step": "adapt",
+    "msg": "cache hit (no API call)"
+  },
+  {
+    "t": 0.0,
+    "step": "critic",
+    "msg": "cache hit (no API call)"
+  },
+  {
+    "t": 0.0,
+    "step": "critic",
+    "msg": "round 1: fit=9/10, facts_preserved=False",
+    "issues": [
+      "Added specific details not present in the original, such as collecting water specifically 'in buckets'.",
+      "Altered the instruction from directly fixing leaks to 'help spot' leaks, shifting the original claim/action."
+    ]
+  },
+  {
+    "t": 0.0,
+    "step": "adapt",
+    "msg": "critic asked for a rewrite"
+  },
+  {
+    "t": 0.0,
+    "step": "adapt",
+    "msg": "cache hit (no API call)"
+  },
+  {
+    "t": 0.0,
+    "step": "critic",
+    "msg": "cache hit (no API call)"
+  },
+  {
+    "t": 0.0,
+    "step": "critic",
+    "msg": "round 2: fit=9/10, facts_preserved=True",
+    "issues": []
+  },
+  {
+    "t": 0.0,
+    "step": "adapt",
+    "msg": "7 scenes, pace=125wpm, style='Vibrant 3D claymation style with soft rounded edge'"
+  },
+  {
+    "t": 0.1,
+    "step": "motion",
+    "msg": "AI clip cache hit (0 credits)"
+  },
+  {
+    "t": 0.1,
+    "step": "scene",
+    "msg": "1/7 audio=8.7s (cache) image=cache motion=AI-clip"
+  },
+  {
+    "t": 0.2,
+    "step": "scene",
+    "msg": "2/7 audio=7.7s (cache) image=cache motion=ken-burns"
+  },
+  {
+    "t": 0.2,
+    "step": "scene",
+    "msg": "3/7 audio=10.0s (cache) image=cache motion=ken-burns"
+  },
+  {
+    "t": 0.2,
+    "step": "scene",
+    "msg": "4/7 audio=7.0s (cache) image=cache motion=ken-burns"
+  },
+  {
+    "t": 0.3,
+    "step": "scene",
+    "msg": "5/7 audio=8.0s (cache) image=cache motion=ken-burns"
+  },
+  {
+    "t": 0.3,
+    "step": "scene",
+    "msg": "6/7 audio=8.3s (cache) image=cache motion=ken-burns"
+  },
+  {
+    "t": 0.5,
+    "step": "scene",
+    "msg": "7/7 audio=7.6s (cache) image=cache motion=ken-burns"
+  },
+  {
+    "t": 82.4,
+    "step": "assemble",
+    "msg": "video=ok total=57.3s"
+  }
+]

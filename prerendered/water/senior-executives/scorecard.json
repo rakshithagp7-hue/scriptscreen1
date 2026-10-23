@@ -1,0 +1,19 @@
+{
+  "reading_grade": 9.3,
+  "words_per_sentence": 11.1,
+  "total_words": 89,
+  "speaking_pace_wpm": 123,
+  "scenes": 6,
+  "avg_scene_seconds": 7.6,
+  "duration_seconds": 45.7,
+  "tone": "refined, concise, direct, and pragmatic",
+  "visual_style": "Minimalist architectural photography with soft natural morning light, slate surfaces, muted brass accents, and shallow depth of field",
+  "palette": "#2B3A42 / #C5A880",
+  "voice": "en-IN-PrabhatNeural",
+  "tts_rate": "+7%",
+  "music_mood_suggested": "Subtle, sophisticated ambient piano",
+  "critic_fit_score": 7,
+  "adapter": "llm",
+  "format": "horizontal",
+  "ai_video_clips": 1
+}

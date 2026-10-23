@@ -1,0 +1,117 @@
+{
+  "profile": {
+    "tone": "Professional and strategic",
+    "vocab_level": "Advanced",
+    "grade_target": 8,
+    "pace_wpm": 160,
+    "voice_gender": "male",
+    "music_mood": "motivational and subtle",
+    "visual_style": "minimalist infographic",
+    "palette": [
+      "#1D3557",
+      "#F4A261"
+    ]
+  },
+  "scenes": [
+    {
+      "title": "Hook",
+      "narration": "हर बूंद मायने रखती है; हमारा जल संसाधन सीमित है।",
+      "image_prompt": "Close-up of a single water droplet hanging from a faucet, dark background, soft lighting"
+    },
+    {
+      "title": "Brush",
+      "narration": "दाँत साफ करते समय नल बंद करें, पानी की बचत तुरंत शुरू होती है।",
+      "image_prompt": "Hand turning off a tap while holding a toothbrush, minimalist icons, light pastel colors"
+    },
+    {
+      "title": "Fix Leaks",
+      "narration": "टपकते नल या पाइप को तुरंत ठीक करें; छोटी सी बूँद भी समय के साथ बड़ी मात्रा में जल नष्ट करती है।",
+      "image_prompt": "Illustration of a leaking pipe with a small drip, a wrench nearby, simple line art"
+    },
+    {
+      "title": "Shower",
+      "narration": "नहाना छोटा रखें, लंबा स्नान करने से बचें।",
+      "image_prompt": "Silhouette of a showerhead with a short water stream, clean white background"
+    },
+    {
+      "title": "Washing Machine",
+      "narration": "वॉशिंग मशीन को केवल पूरी लोड के साथ चलाएँ, अधूरी लोड बर्बादी है।",
+      "image_prompt": "Washing machine door open showing a full drum of clothes, minimal color palette"
+    },
+    {
+      "title": "Rainwater",
+      "narration": "बारिश का पानी इकट्ठा करके पौधों को पानी दें; यह सरल कदम अतिरिक्त जल प्रदान करता है।",
+      "image_prompt": "Rainwater collection barrel beside potted plants, gentle rain, soft shadows"
+    },
+    {
+      "title": "Recap",
+      "narration": "इन छोटे‑छोटे आदतों को रोज़ अपनाएँ, मिलकर बड़ा अंतर लाएँ। स्मार्ट जल प्रबंधन से लागत भी घटती है और स्थिरता बढ़ती है।",
+      "image_prompt": "Collage of icons: faucet, wrench, shower, washing machine, rain barrel, all connected by arrows, cohesive infographic style"
+    }
+  ],
+  "timeline": [
+    {
+      "scene": 1,
+      "start": 0.0,
+      "end": 5.61,
+      "narration": "हर बूंद मायने रखती है; हमारा जल संसाधन सीमित है।",
+      "image": "/workspaces/scriptscreen1/.cache/img_11e5450556083d959886.png",
+      "audio": "/workspaces/scriptscreen1/output/senior-executives/frames/scene0.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 2,
+      "start": 5.61,
+      "end": 11.98,
+      "narration": "दाँत साफ करते समय नल बंद करें, पानी की बचत तुरंत शुरू होती है।",
+      "image": "/workspaces/scriptscreen1/.cache/img_ec156dc3bd449171a2d9.png",
+      "audio": "/workspaces/scriptscreen1/output/senior-executives/frames/scene1.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 3,
+      "start": 11.98,
+      "end": 20.47,
+      "narration": "टपकते नल या पाइप को तुरंत ठीक करें; छोटी सी बूँद भी समय के साथ बड़ी मात्रा में जल नष्ट करती है।",
+      "image": "/workspaces/scriptscreen1/.cache/img_88a86f4c5dbcd023f8d0.png",
+      "audio": "/workspaces/scriptscreen1/output/senior-executives/frames/scene2.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 4,
+      "start": 20.47,
+      "end": 24.94,
+      "narration": "नहाना छोटा रखें, लंबा स्नान करने से बचें।",
+      "image": "/workspaces/scriptscreen1/.cache/img_0f61331a343b52b38de4.png",
+      "audio": "/workspaces/scriptscreen1/output/senior-executives/frames/scene3.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 5,
+      "start": 24.94,
+      "end": 31.39,
+      "narration": "वॉशिंग मशीन को केवल पूरी लोड के साथ चलाएँ, अधूरी लोड बर्बादी है।",
+      "image": "/workspaces/scriptscreen1/.cache/img_cd9b3aa85093a5a3424d.png",
+      "audio": "/workspaces/scriptscreen1/output/senior-executives/frames/scene4.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 6,
+      "start": 31.39,
+      "end": 39.18,
+      "narration": "बारिश का पानी इकट्ठा करके पौधों को पानी दें; यह सरल कदम अतिरिक्त जल प्रदान करता है।",
+      "image": "/workspaces/scriptscreen1/.cache/img_210b3aa5d412351e49e7.png",
+      "audio": "/workspaces/scriptscreen1/output/senior-executives/frames/scene5.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 7,
+      "start": 39.18,
+      "end": 50.04,
+      "narration": "इन छोटे‑छोटे आदतों को रोज़ अपनाएँ, मिलकर बड़ा अंतर लाएँ। स्मार्ट जल प्रबंधन से लागत भी घटती है और स्थिरता बढ़ती है।",
+      "image": "/workspaces/scriptscreen1/.cache/img_d4b6093149c1fd4618b4.png",
+      "audio": "/workspaces/scriptscreen1/output/senior-executives/frames/scene6.wav",
+      "motion": "ken-burns"
+    }
+  ]
+}

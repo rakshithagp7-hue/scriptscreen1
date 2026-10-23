@@ -1,0 +1,117 @@
+{
+  "profile": {
+    "tone": "Energetic, encouraging, and engaging",
+    "vocab_level": "Intermediate elementary / middle school",
+    "grade_target": 7,
+    "pace_wpm": 125,
+    "voice_gender": "female",
+    "music_mood": "Upbeat, playful, and inspiring acoustic pop",
+    "visual_style": "Vibrant 3D claymation style with soft rounded edges, cheerful ambient lighting, and minimalist clean backgrounds",
+    "palette": [
+      "#2A9D8F",
+      "#E76F51"
+    ]
+  },
+  "scenes": [
+    {
+      "title": "Every Drop Matters",
+      "narration": "Did you know our freshwater is limited? That means every single drop really counts!",
+      "image_prompt": "A giant translucent water droplet resting gently on the palm of a stylized hand against a bright clean backdrop."
+    },
+    {
+      "title": "Brush Without Waste",
+      "narration": "First, always turn off the faucet while brushing your teeth instead of letting it run.",
+      "image_prompt": "A bright toothbrush resting on a bathroom sink next to a closed shiny metal faucet."
+    },
+    {
+      "title": "Stop the Drips",
+      "narration": "Second, help spot leaking taps and pipes. Even tiny drips waste huge amounts over time.",
+      "image_prompt": "A single water droplet suspended under a pipe fixture above a small colorful puddle."
+    },
+    {
+      "title": "Quick Shower Power",
+      "narration": "Third, take short, refreshing showers instead of filling up long baths.",
+      "image_prompt": "A sleek modern showerhead spraying a brief mist next to a round clock timer."
+    },
+    {
+      "title": "Full Loads Only",
+      "narration": "Fourth, remind your family to run the washing machine only when it is completely full.",
+      "image_prompt": "A front-loading washing machine filled to capacity with colorful folded laundry."
+    },
+    {
+      "title": "Catch the Rain",
+      "narration": "Fifth, collect rainwater outside in buckets and reuse it to give thirsty plants a drink.",
+      "image_prompt": "A bright watering can catching clear raindrops beside a row of potted green plants."
+    },
+    {
+      "title": "Make a Difference",
+      "narration": "Small habits practiced every day add up to make a giant difference for our planet!",
+      "image_prompt": "A thriving green plant sprout emerging from dark soil beneath warm glowing sunbeams."
+    }
+  ],
+  "timeline": [
+    {
+      "scene": 1,
+      "start": 0.0,
+      "end": 8.7,
+      "narration": "Did you know our freshwater is limited? That means every single drop really counts!",
+      "image": "/workspaces/scriptscreen1/.cache/img_c7e2a4e8ef8b0e7e6d4c.png",
+      "audio": "prerendered/water/school-children-aged-10-14/frames/scene0.wav",
+      "motion": "ai-clip"
+    },
+    {
+      "scene": 2,
+      "start": 8.7,
+      "end": 16.37,
+      "narration": "First, always turn off the faucet while brushing your teeth instead of letting it run.",
+      "image": "/workspaces/scriptscreen1/.cache/img_b5649a9125796a2a254b.png",
+      "audio": "prerendered/water/school-children-aged-10-14/frames/scene1.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 3,
+      "start": 16.37,
+      "end": 26.37,
+      "narration": "Second, help spot leaking taps and pipes. Even tiny drips waste huge amounts over time.",
+      "image": "/workspaces/scriptscreen1/.cache/img_c772ff4edb7b1d973fad.png",
+      "audio": "prerendered/water/school-children-aged-10-14/frames/scene2.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 4,
+      "start": 26.37,
+      "end": 33.42,
+      "narration": "Third, take short, refreshing showers instead of filling up long baths.",
+      "image": "/workspaces/scriptscreen1/.cache/img_6ee045b33532f6cb265e.png",
+      "audio": "prerendered/water/school-children-aged-10-14/frames/scene3.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 5,
+      "start": 33.42,
+      "end": 41.42,
+      "narration": "Fourth, remind your family to run the washing machine only when it is completely full.",
+      "image": "/workspaces/scriptscreen1/.cache/img_c2aa7812b6f538326084.png",
+      "audio": "prerendered/water/school-children-aged-10-14/frames/scene4.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 6,
+      "start": 41.42,
+      "end": 49.72,
+      "narration": "Fifth, collect rainwater outside in buckets and reuse it to give thirsty plants a drink.",
+      "image": "/workspaces/scriptscreen1/.cache/img_33f5db95a4a9ab2b3c49.png",
+      "audio": "prerendered/water/school-children-aged-10-14/frames/scene5.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 7,
+      "start": 49.72,
+      "end": 57.29,
+      "narration": "Small habits practiced every day add up to make a giant difference for our planet!",
+      "image": "/workspaces/scriptscreen1/.cache/img_2daaff645c62519e1600.png",
+      "audio": "prerendered/water/school-children-aged-10-14/frames/scene6.wav",
+      "motion": "ken-burns"
+    }
+  ]
+}

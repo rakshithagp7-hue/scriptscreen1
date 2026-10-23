@@ -1,0 +1,60 @@
+[
+  {
+    "t": 0.0,
+    "step": "setup",
+    "msg": "audience='Senior executives' lang=kn format=horizontal(1280, 720) llm=on offline=False ai_clips_max=0"
+  },
+  {
+    "t": 5.1,
+    "step": "critic",
+    "msg": "round 1: fit=9/10, facts_preserved=True",
+    "issues": [
+      "Slightly verbose; could be more concise for busy executives"
+    ]
+  },
+  {
+    "t": 7.5,
+    "step": "translate",
+    "msg": "translated 6 scenes into Kannada"
+  },
+  {
+    "t": 7.5,
+    "step": "adapt",
+    "msg": "6 scenes, pace=160wpm, style='minimalist corporate illustration'"
+  },
+  {
+    "t": 38.4,
+    "step": "scene",
+    "msg": "1/6 audio=9.9s (edge-tts) image=pollinations motion=ken-burns"
+  },
+  {
+    "t": 38.4,
+    "step": "scene",
+    "msg": "2/6 audio=7.3s (edge-tts) image=pollinations motion=ken-burns"
+  },
+  {
+    "t": 38.4,
+    "step": "scene",
+    "msg": "3/6 audio=7.8s (edge-tts) image=pollinations motion=ken-burns"
+  },
+  {
+    "t": 38.4,
+    "step": "scene",
+    "msg": "4/6 audio=8.7s (edge-tts) image=pollinations motion=ken-burns"
+  },
+  {
+    "t": 38.4,
+    "step": "scene",
+    "msg": "5/6 audio=7.7s (edge-tts) image=pollinations motion=ken-burns"
+  },
+  {
+    "t": 38.4,
+    "step": "scene",
+    "msg": "6/6 audio=11.4s (edge-tts) image=pollinations motion=ken-burns"
+  },
+  {
+    "t": 73.2,
+    "step": "assemble",
+    "msg": "video=ok total=52.8s"
+  }
+]

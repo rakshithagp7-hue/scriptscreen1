@@ -1,0 +1,103 @@
+{
+  "profile": {
+    "tone": "professional and persuasive",
+    "vocab_level": "advanced",
+    "grade_target": 8,
+    "pace_wpm": 160,
+    "voice_gender": "male",
+    "music_mood": "inspiring",
+    "visual_style": "minimalist corporate illustration",
+    "palette": [
+      "#0A3D62",
+      "#F5F5F5"
+    ]
+  },
+  "scenes": [
+    {
+      "title": "Why Water Matters",
+      "narration": "ನಿಮ್ಮ ನೀರಿನ ಬಿಲ್ ಅನ್ನು ಕಡಿತಗೊಳಿಸುವುದನ್ನು ಕಲ್ಪಿಸಿ, ಹಾಗೂ ನಿಮ್ಮ ಸ್ಥಿರತೆಯ ನಾಯಕತ್ವವನ್ನು ಬಲಪಡಿಸುವಾಗ—ಪ್ರತಿ ಹನಿ ಮಹತ್ವದದ್ದು, ಏಕೆಂದರೆ ನಮ್ಮ ಸರಬರಾಜು ಸೀಮಿತ.",
+      "image_prompt": "A modern executive office desk with a sleek glass water pitcher, a subtle water‑droplet overlay on the surface, soft natural light from a window."
+    },
+    {
+      "title": "Brush Smart",
+      "narration": "ಮೊದಲಿಗೆ, ದವಡೆಯನ್ನು ತೊಳೆಯುವಾಗ ನಳಿಕೆಯನ್ನು ಮುಚ್ಚಿ; ಈ ಸರಳ ಅಭ್ಯಾಸವು ಪ್ರತಿ ಬೆಳಿಗ್ಗೆ ಗ್ಯಾಲನ್‌ಗಳಷ್ಟು ನೀರನ್ನು ಉಳಿಸುತ್ತದೆ.",
+      "image_prompt": "Close‑up of a brushed hand reaching for a faucet, the tap turned off, with a toothbrush and toothpaste beside a sink."
+    },
+    {
+      "title": "Fix Leaks",
+      "narration": "ಎರಡನೇದು, ಯಾವುದೇ ಸೋರಿಕೆಗೊಳ್ಳುವ ನಳಿಕೆಗಳು ಅಥವಾ ಕೊಳವೆಗಳನ್ನು ಸರಿಪಡಿಸಿ—ಆ ಚಿಕ್ಕ ಹನಿಗಳು ತಿಂಗಳುಗಳಲ್ಲೇ ದೊಡ್ಡ ವ್ಯರ್ಥವಾಗುತ್ತವೆ.",
+      "image_prompt": "A pipe joint with a small water drip highlighted, a wrench positioned nearby, set against a clean bathroom backdrop."
+    },
+    {
+      "title": "Shower Efficiency",
+      "narration": "ಮೂರನೇದು, ದೀರ್ಘ ಸ್ನಾನಗಳ ಬದಲಿಗೆ ಚಿಕ್ಕ ಶವರ್‌ಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ; ಕೆಲವು ನಿಮಿಷಗಳ ಕಡಿತವು ನೀರಿನ ಬಳಕೆಯನ್ನು ಮಹತ್ತರವಾಗಿ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.",
+      "image_prompt": "A minimalist shower stall with a timer icon indicating 5 minutes, steam lightly rising, and a sleek showerhead."
+    },
+    {
+      "title": "Full Loads",
+      "narration": "ನಾಲ್ಕನೇದು, ವಾಶಿಂಗ್ ಮಷಿನ್ ಅನ್ನು ಅದು ಪೂರ್ಣವಾಗಿ ತುಂಬಿದಾಗ ಮಾತ್ರ ಚಲಾಯಿಸಿ, ಪ್ರತಿ ಚಕ್ರದ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಗರಿಷ್ಟಗೊಳಿಸಿ.",
+      "image_prompt": "An open washing machine drum showing a full load of clothes, with a green checkmark floating above."
+    },
+    {
+      "title": "Rainwater Reuse",
+      "narration": "ಐದನೇದು, ನಿಮ್ಮ ಸಸ್ಯಗಳಿಗಾಗಿ ಮಳೆಯ ನೀರನ್ನು ಸಂಗ್ರಹಿಸಿ, ಹಾಗೂ ನೆನಪಿಡಿ: ಈ ಚಿಕ್ಕ ದೈನಂದಿನ ಅಭ್ಯಾಸಗಳು ನಿಮ್ಮ ಮನೆಯಲ್ಲೂ ಮತ್ತು ನಿಮ್ಮ ಸಂಸ್ಥೆಯ ESG ಗುರಿಗಳಲ್ಲೂ ದೊಡ್ಡ ವ್ಯತ್ಯಾಸವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ.",
+      "image_prompt": "A stylish rain barrel on a balcony feeding a potted plant, with subtle droplets falling and a city skyline in the background."
+    }
+  ],
+  "timeline": [
+    {
+      "scene": 1,
+      "start": 0.0,
+      "end": 9.88,
+      "narration": "ನಿಮ್ಮ ನೀರಿನ ಬಿಲ್ ಅನ್ನು ಕಡಿತಗೊಳಿಸುವುದನ್ನು ಕಲ್ಪಿಸಿ, ಹಾಗೂ ನಿಮ್ಮ ಸ್ಥಿರತೆಯ ನಾಯಕತ್ವವನ್ನು ಬಲಪಡಿಸುವಾಗ—ಪ್ರತಿ ಹನಿ ಮಹತ್ವದದ್ದು, ಏಕೆಂದರೆ ನಮ್ಮ ಸರಬರಾಜು ಸೀಮಿತ.",
+      "image": "/workspaces/scriptscreen1/.cache/img_5c5123a7ed5d890732f7.png",
+      "audio": "/workspaces/scriptscreen1/output/senior-executives/frames/scene0.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 2,
+      "start": 9.88,
+      "end": 17.14,
+      "narration": "ಮೊದಲಿಗೆ, ದವಡೆಯನ್ನು ತೊಳೆಯುವಾಗ ನಳಿಕೆಯನ್ನು ಮುಚ್ಚಿ; ಈ ಸರಳ ಅಭ್ಯಾಸವು ಪ್ರತಿ ಬೆಳಿಗ್ಗೆ ಗ್ಯಾಲನ್‌ಗಳಷ್ಟು ನೀರನ್ನು ಉಳಿಸುತ್ತದೆ.",
+      "image": "/workspaces/scriptscreen1/.cache/img_4e33ecc265ecb7ecc79b.png",
+      "audio": "/workspaces/scriptscreen1/output/senior-executives/frames/scene1.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 3,
+      "start": 17.14,
+      "end": 24.95,
+      "narration": "ಎರಡನೇದು, ಯಾವುದೇ ಸೋರಿಕೆಗೊಳ್ಳುವ ನಳಿಕೆಗಳು ಅಥವಾ ಕೊಳವೆಗಳನ್ನು ಸರಿಪಡಿಸಿ—ಆ ಚಿಕ್ಕ ಹನಿಗಳು ತಿಂಗಳುಗಳಲ್ಲೇ ದೊಡ್ಡ ವ್ಯರ್ಥವಾಗುತ್ತವೆ.",
+      "image": "/workspaces/scriptscreen1/.cache/img_a349f455bad910fbe900.png",
+      "audio": "/workspaces/scriptscreen1/output/senior-executives/frames/scene2.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 4,
+      "start": 24.95,
+      "end": 33.66,
+      "narration": "ಮೂರನೇದು, ದೀರ್ಘ ಸ್ನಾನಗಳ ಬದಲಿಗೆ ಚಿಕ್ಕ ಶವರ್‌ಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ; ಕೆಲವು ನಿಮಿಷಗಳ ಕಡಿತವು ನೀರಿನ ಬಳಕೆಯನ್ನು ಮಹತ್ತರವಾಗಿ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.",
+      "image": "/workspaces/scriptscreen1/.cache/img_ace9ce51aa2d6859dd3e.png",
+      "audio": "/workspaces/scriptscreen1/output/senior-executives/frames/scene3.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 5,
+      "start": 33.66,
+      "end": 41.4,
+      "narration": "ನಾಲ್ಕನೇದು, ವಾಶಿಂಗ್ ಮಷಿನ್ ಅನ್ನು ಅದು ಪೂರ್ಣವಾಗಿ ತುಂಬಿದಾಗ ಮಾತ್ರ ಚಲಾಯಿಸಿ, ಪ್ರತಿ ಚಕ್ರದ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಗರಿಷ್ಟಗೊಳಿಸಿ.",
+      "image": "/workspaces/scriptscreen1/.cache/img_7316aa621262f1cc58a3.png",
+      "audio": "/workspaces/scriptscreen1/output/senior-executives/frames/scene4.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 6,
+      "start": 41.4,
+      "end": 52.81,
+      "narration": "ಐದನೇದು, ನಿಮ್ಮ ಸಸ್ಯಗಳಿಗಾಗಿ ಮಳೆಯ ನೀರನ್ನು ಸಂಗ್ರಹಿಸಿ, ಹಾಗೂ ನೆನಪಿಡಿ: ಈ ಚಿಕ್ಕ ದೈನಂದಿನ ಅಭ್ಯಾಸಗಳು ನಿಮ್ಮ ಮನೆಯಲ್ಲೂ ಮತ್ತು ನಿಮ್ಮ ಸಂಸ್ಥೆಯ ESG ಗುರಿಗಳಲ್ಲೂ ದೊಡ್ಡ ವ್ಯತ್ಯಾಸವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ.",
+      "image": "/workspaces/scriptscreen1/.cache/img_114af029b2427d0d1493.png",
+      "audio": "/workspaces/scriptscreen1/output/senior-executives/frames/scene5.wav",
+      "motion": "ken-burns"
+    }
+  ]
+}

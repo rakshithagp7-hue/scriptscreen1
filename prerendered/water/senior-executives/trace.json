@@ -1,0 +1,118 @@
+[
+  {
+    "t": 0.0,
+    "step": "setup",
+    "msg": "audience='Senior executives' lang=en format=horizontal(1280, 720) llm=on offline=False ai_clips_max=1"
+  },
+  {
+    "t": 0.0,
+    "step": "adapt",
+    "msg": "cache hit (no API call)"
+  },
+  {
+    "t": 0.0,
+    "step": "critic",
+    "msg": "cache hit (no API call)"
+  },
+  {
+    "t": 0.0,
+    "step": "critic",
+    "msg": "round 1: fit=6/10, facts_preserved=True",
+    "issues": [
+      "Over-relies on corporate jargon ('operational discipline', 'efficiency metrics', 'circular systems') in a domestic context, which can feel forced or patronizing rather than genuinely professional.",
+      "Senior executives value concise, direct communication over buzzword-heavy phrasing for simple personal habits."
+    ]
+  },
+  {
+    "t": 0.0,
+    "step": "adapt",
+    "msg": "critic asked for a rewrite"
+  },
+  {
+    "t": 0.0,
+    "step": "adapt",
+    "msg": "cache hit (no API call)"
+  },
+  {
+    "t": 0.0,
+    "step": "critic",
+    "msg": "cache hit (no API call)"
+  },
+  {
+    "t": 0.0,
+    "step": "critic",
+    "msg": "round 2: fit=7/10, facts_preserved=False",
+    "issues": [
+      "Introduced details not present in the original text, specifically 'collection barrels' and 'garden'.",
+      "While the vocabulary ('stewardship', 'compound') suits executives, basic domestic chores like brushing teeth and laundry can feel patronizing without a broader strategic or leadership framing."
+    ]
+  },
+  {
+    "t": 0.0,
+    "step": "adapt",
+    "msg": "critic asked for a rewrite"
+  },
+  {
+    "t": 0.0,
+    "step": "adapt",
+    "msg": "cache hit (no API call)"
+  },
+  {
+    "t": 0.0,
+    "step": "critic",
+    "msg": "cache hit (no API call)"
+  },
+  {
+    "t": 0.0,
+    "step": "critic",
+    "msg": "round 3: fit=7/10, facts_preserved=True",
+    "issues": [
+      "Applying heavy corporate jargon like 'friction losses' and 'operational discipline' to mundane domestic tasks can sound forced, unnatural, or slightly parodic to senior executives."
+    ]
+  },
+  {
+    "t": 0.0,
+    "step": "adapt",
+    "msg": "6 scenes, pace=160wpm, style='Minimalist architectural photography with soft nat'"
+  },
+  {
+    "t": 0.0,
+    "step": "motion",
+    "msg": "AI clip cache hit (0 credits)"
+  },
+  {
+    "t": 0.0,
+    "step": "scene",
+    "msg": "1/6 audio=7.1s (cache) image=cache motion=AI-clip"
+  },
+  {
+    "t": 0.0,
+    "step": "scene",
+    "msg": "2/6 audio=10.8s (cache) image=cache motion=ken-burns"
+  },
+  {
+    "t": 0.1,
+    "step": "scene",
+    "msg": "3/6 audio=6.2s (cache) image=cache motion=ken-burns"
+  },
+  {
+    "t": 0.1,
+    "step": "scene",
+    "msg": "4/6 audio=6.3s (cache) image=cache motion=ken-burns"
+  },
+  {
+    "t": 0.1,
+    "step": "scene",
+    "msg": "5/6 audio=8.1s (cache) image=cache motion=ken-burns"
+  },
+  {
+    "t": 0.1,
+    "step": "scene",
+    "msg": "6/6 audio=7.1s (cache) image=cache motion=ken-burns"
+  },
+  {
+    "t": 69.7,
+    "step": "assemble",
+    "msg": "video=ok total=45.7s"
+  }
+]

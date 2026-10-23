@@ -1,0 +1,117 @@
+{
+  "profile": {
+    "tone": "enthusiastic and friendly",
+    "vocab_level": "simple",
+    "grade_target": 8,
+    "pace_wpm": 125,
+    "voice_gender": "female",
+    "music_mood": "upbeat and playful",
+    "visual_style": "bright cartoon illustration",
+    "palette": [
+      "#00ADEF",
+      "#FFCC00"
+    ]
+  },
+  "scenes": [
+    {
+      "title": "Imagine Water",
+      "narration": "ಕಲ್ಪಿಸು, ಚಿಕ್ಕ ಹನಿ ನಿಮ್ಮ ಮನೆಯಲ್ಲಿನ ಉಳಿಸಿದ ನೀರಿನ ಪರ್ವತವಾಗಬಹುದು!",
+      "image_prompt": "A close-up of a single water droplet magnified, sparkling against a light background with a subtle ripple effect."
+    },
+    {
+      "title": "Brush Teeth",
+      "narration": "ನೀವು ಹಲ್ಲು ತೊಳೆಯುವಾಗ, ನೀರಿನ ಟ್ಯಾಪ್ ಅನ್ನು ಮುಚ್ಚಿ – ಇದರಿಂದ ಗ್ಯಾಲನ್‌ಗಳಷ್ಟು ನೀರು ಉಳಿಯುತ್ತದೆ.",
+      "image_prompt": "A cartoon child at a bathroom sink, hand reaching to turn off the faucet, toothbrush on the counter."
+    },
+    {
+      "title": "Fix Leaks",
+      "narration": "ಒಂದು ಸೋರಿಕೆಯಿರುವ ಟ್ಯಾಪ್ ಚಿಕ್ಕದಾಗಿರುವಂತೆ ತೋರುವುದಾದರೂ, ಪ್ರತಿ ಹನಿ ಸೇರಿ ಹೆಚ್ಚುತ್ತದೆ, ಆದ್ದರಿಂದ ತಕ್ಷಣ ಸರಿಪಡಿಸಿ.",
+      "image_prompt": "A leaking faucet with water droplets falling into a small puddle, a wrench placed nearby ready to fix it."
+    },
+    {
+      "title": "Quick Showers",
+      "narration": "ದೀರ್ಘ ಸ್ನಾನದ ಬದಲು ಚುಟುಕು ಶವರ್ ತೆಗೆದುಕೊಳ್ಳಿ, ಇದರಿಂದ ನೀರನ್ನು ಸಮರ್ಪಕವಾಗಿ ಬಳಸಬಹುದು ಮತ್ತು ಸಮಯ ಉಳಿಯುತ್ತದೆ.",
+      "image_prompt": "A cartoon bathroom showing a timer next to a shower head, water flowing briefly."
+    },
+    {
+      "title": "Full Loads",
+      "narration": "ವಾಷಿಂಗ್ ಮೆಷಿನ್ ಅನ್ನು ಸಂಪೂರ್ಣ ತುಂಬಿದಾಗ ಮಾತ್ರ ಚಲಾಯಿಸಿ – ಅರ್ಧಭರಿತ ಲೋಡ್‌ಗಳು ನೀರನ್ನು ವ್ಯರ್ಥ ಮಾಡುತ್ತವೆ.",
+      "image_prompt": "A washing machine door open, showing a full drum of clothes, with a half‑filled drum crossed out."
+    },
+    {
+      "title": "Rainwater",
+      "narration": "ಮಳೆಯ ನೀರನ್ನು ಬಾರಲ್‌ನಲ್ಲಿ ಸಂಗ್ರಹಿಸಿ, ಅದನ್ನು ನಿಮ್ಮ ಸಸ್ಯಗಳಿಗೆ ನೀರಿನಂತೆ ಬಳಸಿ.",
+      "image_prompt": "A rain barrel placed under a gutter, water collecting, with potted plants nearby."
+    },
+    {
+      "title": "Big Impact",
+      "narration": "ಪ್ರತಿದಿನದ ಸಣ್ಣ ಅಭ್ಯಾಸಗಳು ನಮ್ಮ ಗ್ರಹ ಮತ್ತು ಭವಿಷ್ಯದ ಪೀಳಿಗೆಗಳಿಗೆ ದೊಡ್ಡ ಪ್ರಭಾವ ಉಂಟುಮಾಡುತ್ತವೆ.",
+      "image_prompt": "A vibrant Earth illustration surrounded by icons of a toothbrush, faucet, shower, washing machine, and plant, all linked by water droplets."
+    }
+  ],
+  "timeline": [
+    {
+      "scene": 1,
+      "start": 0.0,
+      "end": 6.52,
+      "narration": "ಕಲ್ಪಿಸು, ಚಿಕ್ಕ ಹನಿ ನಿಮ್ಮ ಮನೆಯಲ್ಲಿನ ಉಳಿಸಿದ ನೀರಿನ ಪರ್ವತವಾಗಬಹುದು!",
+      "image": "/workspaces/scriptscreen1/.cache/img_9c580f614cb0bce39192.png",
+      "audio": "/workspaces/scriptscreen1/output/school-children-aged-10-14/frames/scene0.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 2,
+      "start": 6.52,
+      "end": 14.52,
+      "narration": "ನೀವು ಹಲ್ಲು ತೊಳೆಯುವಾಗ, ನೀರಿನ ಟ್ಯಾಪ್ ಅನ್ನು ಮುಚ್ಚಿ – ಇದರಿಂದ ಗ್ಯಾಲನ್‌ಗಳಷ್ಟು ನೀರು ಉಳಿಯುತ್ತದೆ.",
+      "image": "/workspaces/scriptscreen1/.cache/img_40a708b4b0d3a8a46e28.png",
+      "audio": "/workspaces/scriptscreen1/output/school-children-aged-10-14/frames/scene1.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 3,
+      "start": 14.52,
+      "end": 24.57,
+      "narration": "ಒಂದು ಸೋರಿಕೆಯಿರುವ ಟ್ಯಾಪ್ ಚಿಕ್ಕದಾಗಿರುವಂತೆ ತೋರುವುದಾದರೂ, ಪ್ರತಿ ಹನಿ ಸೇರಿ ಹೆಚ್ಚುತ್ತದೆ, ಆದ್ದರಿಂದ ತಕ್ಷಣ ಸರಿಪಡಿಸಿ.",
+      "image": "/workspaces/scriptscreen1/.cache/img_9a2b5200c77ef3f6b371.png",
+      "audio": "/workspaces/scriptscreen1/output/school-children-aged-10-14/frames/scene2.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 4,
+      "start": 24.57,
+      "end": 34.59,
+      "narration": "ದೀರ್ಘ ಸ್ನಾನದ ಬದಲು ಚುಟುಕು ಶವರ್ ತೆಗೆದುಕೊಳ್ಳಿ, ಇದರಿಂದ ನೀರನ್ನು ಸಮರ್ಪಕವಾಗಿ ಬಳಸಬಹುದು ಮತ್ತು ಸಮಯ ಉಳಿಯುತ್ತದೆ.",
+      "image": "/workspaces/scriptscreen1/.cache/img_dc817bc3d64a345971a9.png",
+      "audio": "/workspaces/scriptscreen1/output/school-children-aged-10-14/frames/scene3.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 5,
+      "start": 34.59,
+      "end": 43.49,
+      "narration": "ವಾಷಿಂಗ್ ಮೆಷಿನ್ ಅನ್ನು ಸಂಪೂರ್ಣ ತುಂಬಿದಾಗ ಮಾತ್ರ ಚಲಾಯಿಸಿ – ಅರ್ಧಭರಿತ ಲೋಡ್‌ಗಳು ನೀರನ್ನು ವ್ಯರ್ಥ ಮಾಡುತ್ತವೆ.",
+      "image": "/workspaces/scriptscreen1/.cache/img_6fd7ec16218e18dd5011.png",
+      "audio": "/workspaces/scriptscreen1/output/school-children-aged-10-14/frames/scene4.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 6,
+      "start": 43.49,
+      "end": 50.46,
+      "narration": "ಮಳೆಯ ನೀರನ್ನು ಬಾರಲ್‌ನಲ್ಲಿ ಸಂಗ್ರಹಿಸಿ, ಅದನ್ನು ನಿಮ್ಮ ಸಸ್ಯಗಳಿಗೆ ನೀರಿನಂತೆ ಬಳಸಿ.",
+      "image": "/workspaces/scriptscreen1/.cache/img_f8eb316ed619c9effc29.png",
+      "audio": "/workspaces/scriptscreen1/output/school-children-aged-10-14/frames/scene5.wav",
+      "motion": "ken-burns"
+    },
+    {
+      "scene": 7,
+      "start": 50.46,
+      "end": 59.04,
+      "narration": "ಪ್ರತಿದಿನದ ಸಣ್ಣ ಅಭ್ಯಾಸಗಳು ನಮ್ಮ ಗ್ರಹ ಮತ್ತು ಭವಿಷ್ಯದ ಪೀಳಿಗೆಗಳಿಗೆ ದೊಡ್ಡ ಪ್ರಭಾವ ಉಂಟುಮಾಡುತ್ತವೆ.",
+      "image": "/workspaces/scriptscreen1/.cache/img_cf3bd1152d3d548736d1.png",
+      "audio": "/workspaces/scriptscreen1/output/school-children-aged-10-14/frames/scene6.wav",
+      "motion": "ken-burns"
+    }
+  ]
+}
